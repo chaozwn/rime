@@ -1,0 +1,58 @@
+__build_info:
+  rime_version: 1.11.2
+  timestamps:
+    squirrel: 1717774589
+    squirrel.custom: 1719800770
+app_options:
+  com.github.wez.wezterm:
+    ascii_mode: true
+  com.jetbrains.intellij:
+    ascii_mode: true
+  com.microsoft.VSCode:
+    ascii_mode: true
+chord_duration: 0.1
+config_version: 1.0
+keyboard_layout: last
+preset_color_schemes:
+  solarized_dark:
+    back_color: 0xf0352A0A
+    border_color: 0xf02A1F00
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x989F52
+    comment_text_color: 0x289989
+    corner_radius: 6
+    font_face: "PingFangSC-Regular,HanaMinB"
+    font_point: 16
+    hilited_back_color: 0x444444
+    hilited_candidate_back_color: 0xD7E8ED
+    hilited_candidate_label_color: 0x2566C6
+    hilited_candidate_text_color: 0x3942CB
+    hilited_comment_text_color: 0x8144C2
+    hilited_text_color: 0x2C8BAE
+    horizontal: true
+    label_color: 0xCC8947
+    label_font_point: 15
+    line_spacing: 10
+    name: "夜光石"
+    text_color: 0xA1A095
+show_notifications_when: never
+style:
+  border_height: "-2"
+  border_width: "-2"
+  candidate_format: "[label]. [candidate] [comment]"
+  candidate_list_layout: stacked
+  color_scheme: solarized_dark
+  color_scheme_dark: solarized_dark
+  corner_radius: 7
+  font_face: Avenir
+  font_point: 16
+  hilited_corner_radius: 0
+  inline_candidate: false
+  inline_preedit: true
+  line_spacing: 5
+  memorize_size: true
+  mutual_exclusive: false
+  shadow_size: 0
+  spacing: 8
+  text_orientation: horizontal
+  translucency: false
