@@ -1,2 +1,4 @@
 *.userdb
 build
+user.yaml
+sync
