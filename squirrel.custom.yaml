@@ -51,6 +51,10 @@ patch:
     com.apple.Terminal:
       no_inline: true
       vim_mode: false
+    com.microsoft.VSCode:
+      ascii_mode: true
+      ascii_punct: true
+      vim_mode: true
     #com.apple.iWork.Numbers:
     #no_inline: true
     com.alfredapp.Alfred:
