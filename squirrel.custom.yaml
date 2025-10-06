@@ -74,6 +74,8 @@ patch:
       vim_mode: true
     net.kovidgoyal.kitty:
       vim_mode: true
+    com.mitchellh.ghostty:
+      vim_mode: true
     # AntDraw in Edge
     com.microsoft.edgemac.app.jndbnbljngolcchhjbajncidekccnlck:
       no_inline: true
