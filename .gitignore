@@ -2,3 +2,6 @@
 build
 user.yaml
 sync
+# 每台机器各自一份，避免 Git 同步时两台系统共用一个 installation_id
+installation.yaml
+user.yaml
